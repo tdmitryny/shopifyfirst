@@ -2870,10 +2870,10 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 
-
-
-
-.header__heading-link {
-  text-align: center;
-  background-color: red;
+.header__heading-link{
+  background-color: aqua;
 }
+
+
+
+
